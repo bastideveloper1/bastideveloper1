@@ -3,7 +3,7 @@ nombre = "Bastián"
 descripcion = "Mi nombre es Bastian, soy de :chile: psicologo clinico y actualmente estudiante de programacion."
 
 # Mis habilidades
-lenguajes = - ![Python](https://github.com/Bastian11111/Bastian11111/assets/133687016/20a3a28f-b630-4e20-9e46-096fd714ab6a){:width="30px" height="30px"}
+lenguajes =
 
 "
 
