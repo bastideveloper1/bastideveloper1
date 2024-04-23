@@ -1,16 +1,18 @@
-### Hi there 👋
+# Sobre mí
+nombre = "Bastián"
+descripcion = ""
 
-<!--
-**Bastian11111/Bastian11111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Mis habilidades
+lenguajes = ["Python", "Java", "HTML", "CSS"]
+tecnologias = ["Django", "Bootstrap", "Git", "Oracle SQL"]
+experiencia = 
 
-Here are some ideas to get you started:
+# Contacto
+linkedin = "https://www.linkedin.com/in/tunombre/"
+twitter = "@3pm_inspiration"
+Instagram = "@3pm_inspiration"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Estadísticas
+estadisticas = "https://github-readme-stats.vercel.app/api?username=Bastian11111&show_icons=true&theme=radical"
+
+
