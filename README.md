@@ -3,13 +3,9 @@ nombre = "Bastián"
 descripcion = "Mi nombre es Bastian, soy de :chile: psicologo clinico y actualmente estudiante de programacion."
 
 # Mis habilidades
-lenguajes =
+lenguajes = ["Python", "Java", "HTML", "CSS"]
 
-"
-
-, "Java", "HTML", "CSS"]
-
-tecnologias = ["Django", "Bootstrap", "Git", "Oracle SQL"]
+tecnologias = ["Django", "Bootstrap", "Git", "Oracle SQL", "Notion"]
 experiencia = 
 
 # Contacto
