@@ -26,6 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
+
 ###
 
 <div align="left">
@@ -42,6 +43,7 @@
 
 ###
 
+![image](https://github.com/Bastian666666666/Bastian666666666/assets/133687016/25faeab7-8a0a-4510-904c-421ee523e0a2)
 
 
 
