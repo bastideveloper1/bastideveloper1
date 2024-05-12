@@ -42,10 +42,10 @@
 
 ###
 
-![Descripción opcional](https://i.imgur.com/a/Tl3VKwg)
+![Descripción opcional](https://imgur.com/Ada89XT)
 
 
-https://i.imgur.com/a/Tl3VKwg
+
 
 
 -----
