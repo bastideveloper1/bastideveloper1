@@ -1,10 +1,11 @@
-![image](https://github.com/Bastian666666666/Bastian666666666/assets/133687016/5da9090d-17d7-4646-9595-c4fbc068832a)![Descripción opcional](https://i.imgur.com/Iwu6WK5.png)
+![image](https://github.com/Bastian666666666/Bastian666666666/assets/133687016/5da9090d-17d7-4646-9595-c4fbc068832a)![Banner](https://i.imgur.com/Iwu6WK5.png)
 
 
 
 
 <h2 align="left">Hi 👋! My name is Bastián and I'm a clinical psychologist and programmer, from Chile.</h2>
 
+###
 
 ###
 
