@@ -1,4 +1,4 @@
-<img src="https://imgur.com/Iwu6WK5" alt="Descripción opcional">
+![Descripción opcional](https://i.imgur.com/Iwu6WK5.png)
 
 
 
