@@ -42,10 +42,10 @@
 
 ###
 
-![Hero realms fan](https://imgur.com/a/Tl3VKwg)
+![Descripción opcional](https://i.imgur.com/a/Tl3VKwg)
 
 
-
+https://i.imgur.com/a/Tl3VKwg
 
 
 -----
