@@ -42,7 +42,7 @@
 
 ###
 
-![HerorealmsFan]([https://i.imgur.com/Iwu6WK5.png](https://imgur.com/a/Tl3VKwg](https://imgur.com/Ada89XT)
+![HerorealmsFan](https://i.imgur.com/Iwu6WK5.png)
 
 
 
