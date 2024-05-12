@@ -42,7 +42,7 @@
 
 ###
 
-![Descripción opcional](https://i.ibb.co/0mL4k1s/Ada89-XT-Imgur.png)
+![Icono de Hero Realms](https://i.ibb.co/1QzJzXs/iconherorealms.png)
 
 
 
