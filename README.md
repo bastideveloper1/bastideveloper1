@@ -42,7 +42,7 @@
 
 ###
 
-![Icono de Hero Realms](https://i.ibb.co/1QzJzXs/iconherorealms.png)
+
 
 
 
