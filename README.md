@@ -5,7 +5,6 @@
 
 <h2 align="left">Hi 👋! My name is Bastián and I'm a clinical psychologist and programmer, from Chile.</h2>
 
-###
 
 ###
 
