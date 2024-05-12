@@ -42,7 +42,7 @@
 
 ###
 
-![Hero realms fan art](https://imgur.com/Ada89XT)
+![Hero realms fan](https://imgur.com/a/Tl3VKwg)
 
 
 
