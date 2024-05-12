@@ -42,7 +42,7 @@
 
 ###
 
-![Descripción opcional](https://imgur.com/Ada89XT)
+![Descripción opcional](https://ibb.co/XjP096Y)
 
 
 
