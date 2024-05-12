@@ -1,4 +1,5 @@
-![image]([https://github.com/ZhengYaWei1992/ZWProgressView/blob/master/Untitled3.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTA0NTU3dGFlbmo4NWRzY2dkcngwaGVoZTU5bDBoOGNzcGVxeDBiaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hJMEc9JKQzZNYIUgsz/giphy.gif))
+![Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2FtbGlxenYzZjJuZGZpMHhzcnNhOTl2a201NmlqbjkxOXZtc3I2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hJMEc9JKQzZNYIUgsz/giphy.gif)
+
 
 
 
