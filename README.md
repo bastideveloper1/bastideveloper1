@@ -1,14 +1,10 @@
-![Descripción opcional](https://i.imgur.com/Iwu6WK5.png)
+![image](https://github.com/Bastian666666666/Bastian666666666/assets/133687016/5da9090d-17d7-4646-9595-c4fbc068832a)![Descripción opcional](https://i.imgur.com/Iwu6WK5.png)
 
 
 
 
 <h2 align="left">Hi 👋! My name is Bastián and I'm a clinical psychologist and programmer, from Chile.</h2>
 
-###
-
-
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjViZmN3YzJ2MjFvbmt6aG9wMjB6ZmNibTN3eXdrenlvZnM1aXA2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dg4TxjYikCpiGd7tYs/giphy.gif"  />
 
 ###
 
@@ -18,7 +14,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
+  <img width
+="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
