@@ -1,5 +1,7 @@
 ![Descripción opcional](https://i.imgur.com/Iwu6WK5.png)
 
+###
+
 <h2 align="left">Hi 👋! My name is Bastián and I'm a clinical psychologist and programmer, from Chile.</h2>
 
 
@@ -39,5 +41,11 @@
 </div>
 
 ###
+
+![HerorealmsFan]([https://i.imgur.com/Iwu6WK5.png](https://imgur.com/a/Tl3VKwg
+))
+
+
+
 
 -----
