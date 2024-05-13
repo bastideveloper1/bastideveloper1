@@ -43,16 +43,17 @@
 
 ###
 
-[![image](https://github.com/Bastian666666666/Bastian666666666/assets/133687016/72a99b89-cf40-4942-b20b-c8a276155807)](https://github.com/Bastian666666666/Miyoo-theme-project)
+![image](https://github.com/Bastian666666666/Bastian666666666/assets/133687016/72a99b89-cf40-4942-b20b-c8a276155807)
 [![Programming Project](https://img.shields.io/badge/Programming-project?logo=github&color=%2353fed2&link=https%3A%2F%2Fgithub.com%2FBastian666666666%2FMiyoo-theme-project)](https://github.com/Bastian666666666/Miyoo-theme-project)
 
-[![image](https://github.com/Bastian666666666/Bastian666666666/assets/133687016/25faeab7-8a0a-4510-904c-421ee523e0a2)](https://github.com/Bastian666666666/Hero-Realms-Fanmade)
+
+![image](https://github.com/Bastian666666666/Bastian666666666/assets/133687016/25faeab7-8a0a-4510-904c-421ee523e0a2)
 [![HeroRealms Fan](https://img.shields.io/badge/HeroRealms-fan?logo=github&color=blue&link=https%3A%2F%2Fgithub.com%2FBastian666666666%2FHero-Realms-Fanmade)](https://github.com/Bastian666666666/Hero-Realms-Fanmade)
 
-[![image](https://github.com/Bastian666666666/Bastian666666666/assets/133687016/8fbd9e0e-3385-4d3b-a435-bab9cf09f35a)](https://github.com/Bastian666666666/Miyoo-theme-project)
+
+
+![image](https://github.com/Bastian666666666/Bastian666666666/assets/133687016/8fbd9e0e-3385-4d3b-a435-bab9cf09f35a)
 [![MiyooTheme Miyoo](https://img.shields.io/badge/MiyooTheme-Miyoo?logo=github&color=pink&link=https%3A%2F%2Fgithub.com%2FBastian666666666%2FMiyoo-theme-project)](https://github.com/Bastian666666666/Miyoo-theme-project)
-
-
 
 
 ![image](https://github.com/Bastian666666666/Bastian666666666/assets/133687016/7f76fba5-08d7-4f3e-b927-3705ad485b44)
