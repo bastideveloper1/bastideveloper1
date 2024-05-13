@@ -50,12 +50,13 @@
 
 
 ![image](https://github.com/Bastian666666666/Bastian666666666/assets/133687016/8fbd9e0e-3385-4d3b-a435-bab9cf09f35a)
+[![Static Badge](https://img.shields.io/badge/%2FMiyoo-theme-project?logo=github&color=pink&link=https%3A%2F%2Fgithub.com%2FBastian666666666%2FMiyoo-theme-project)](https://github.com/Bastian666666666/Miyoo-theme-project)
+
 
 
 ![image](https://github.com/Bastian666666666/Bastian666666666/assets/133687016/7f76fba5-08d7-4f3e-b927-3705ad485b44)
 
 
-[![Static Badge](https://img.shields.io/badge/%2FMiyoo-theme-project?logo=github&color=darkgreen&link=https%3A%2F%2Fgithub.com%2FBastian666666666%2FMiyoo-theme-project)](https://github.com/Bastian666666666/Miyoo-theme-project)
 
 
 -----
