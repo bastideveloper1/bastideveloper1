@@ -43,9 +43,16 @@
 
 ###
 
+![image](https://github.com/Bastian666666666/Bastian666666666/assets/133687016/72a99b89-cf40-4942-b20b-c8a276155807)
+
+
 ![image](https://github.com/Bastian666666666/Bastian666666666/assets/133687016/25faeab7-8a0a-4510-904c-421ee523e0a2)
 
 
+![image](https://github.com/Bastian666666666/Bastian666666666/assets/133687016/8fbd9e0e-3385-4d3b-a435-bab9cf09f35a)
+
+
+![image](https://github.com/Bastian666666666/Bastian666666666/assets/133687016/7f76fba5-08d7-4f3e-b927-3705ad485b44)
 
 
 -----
