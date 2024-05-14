@@ -44,7 +44,7 @@
 ###
 
 ![image](https://github.com/Bastian666666666/Bastian666666666/assets/133687016/72a99b89-cf40-4942-b20b-c8a276155807)
-[![HeroRealmsFAN](https://img.shields.io/badge/HeroRealms-fan?logo=github&color=39FFF0&link=https://github.com/Bastian666666666/MindMatch-DSM-Symptom-Tracker)](https://github.com/Bastian666666666/MindMatch-DSM-Symptom-Tracker)
+[![HeroRealmsFAN](https://img.shields.io/badge/MindMatch-Tracker?logo=github&color=7DFCF2&link=https://github.com/Bastian666666666/MindMatch-DSM-Symptom-Tracker)](https://github.com/Bastian666666666/MindMatch-DSM-Symptom-Tracker)
 
 
 ![image](https://github.com/Bastian666666666/Bastian666666666/assets/133687016/25faeab7-8a0a-4510-904c-421ee523e0a2)
