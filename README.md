@@ -44,7 +44,7 @@
 ###
 
 ![image](https://github.com/Bastian666666666/Bastian666666666/assets/133687016/72a99b89-cf40-4942-b20b-c8a276155807)
-[![Programming Project](https://img.shields.io/badge/Programming-project?logo=github&color=%2353fed2&link=https%3A%2F%2Fgithub.com%2FBastian666666666%2FMiyoo-theme-project)]([https://github.com/Bastian666666666/Miyoo-theme-project](https://github.com/Bastian666666666/MindMatch-DSM-Symptom-Tracker))
+[![Programming Project](https://github.com/Bastian666666666/Miyoo-theme-project](https://github.com/Bastian666666666/MindMatch-DSM-Symptom-Tracker))]
 
 
 ![image](https://github.com/Bastian666666666/Bastian666666666/assets/133687016/25faeab7-8a0a-4510-904c-421ee523e0a2)
