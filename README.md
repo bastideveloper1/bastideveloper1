@@ -63,24 +63,6 @@
 ![image](https://github.com/Bastian666666666/Bastian666666666/assets/133687016/7f76fba5-08d7-4f3e-b927-3705ad485b44)
 
 
-> 🕯️*El tiempo no espera.*
-> 
-
-> 🕯️*El planteamiento correcto de un problema es ya la mitad de su solución* (Carl Jung)
-> 
-- Videos inspiración
-    
-    https://www.youtube.com/watch?v=ASrRZ_XMR6s&ab_channel=SounasArt
-    
-    https://www.youtube.com/watch?v=0D00u7I543E&ab_channel=100Yardas
-    
-    https://www.youtube.com/watch?v=Tl46ILqMGh4&ab_channel=FelipeJerez
-    
-
-### 
-
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
 ### 
 
 <div align="center">
