@@ -63,6 +63,7 @@
 ![image](https://github.com/Bastian666666666/Bastian666666666/assets/133687016/7f76fba5-08d7-4f3e-b927-3705ad485b44)
 
 
-
+<br clear="both">
+<img src="https://raw.githubusercontent.com/Bastian666666666/Bastian666666666/output/snake.svg" alt="Snake animation" />
 
 -----
