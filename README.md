@@ -68,11 +68,6 @@
 
 ![image](https://github.com/Bastian666666666/Bastian666666666/assets/133687016/7f76fba5-08d7-4f3e-b927-3705ad485b44)
  
-
-###
-
-![snake gif](https://github.com/Bastian666666666/Bastian666666666/blob/output/github-contribution-grid-snake.gif)
-
 ###
 -----
 
