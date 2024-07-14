@@ -2,6 +2,9 @@
 
 ###
 
+![snake gif](https://github.com/Bastian666666666/Bastian666666666/blob/output/github-contribution-grid-snake.gif)
+
+
 <h2 align="left">Hi 👋! My name is Bastián and I'm a clinical psychologist and programmer, from Chile.</h2>
 
 
