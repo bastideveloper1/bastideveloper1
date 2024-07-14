@@ -71,5 +71,4 @@
 ###
 -----
 
-![snake gif](https://github.com/Bastian666666666/Bastian666666666/blob/output/github-contribution-grid-snake.svg)
 
