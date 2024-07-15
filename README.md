@@ -12,26 +12,25 @@
 ###
 <h2 align="left">I code with:</h2>
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/IgorM-Oliveira)
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://github.com/IgorM-Oliveira)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/IgorM-Oliveira)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/IgorM-Oliveira)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/IgorM-Oliveira)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/IgorM-Oliveira)
-[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/IgorM-Oliveira)
-[![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)](https://github.com/IgorM-Oliveira)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/IgorM-Oliveira)
-[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://github.com/IgorM-Oliveira)
+[![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)](https://github.com/IgorM-Oliveira)
+[![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java)](https://github.com/IgorM-Oliveira)
+[![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)](https://github.com/IgorM-Oliveira)
+[![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3)](https://github.com/IgorM-Oliveira)
+[![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/IgorM-Oliveira)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap)](https://github.com/IgorM-Oliveira)
+[![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js)](https://github.com/IgorM-Oliveira)
+[![AngularJS](https://img.shields.io/badge/AngularJS-000000?style=for-the-badge&logo=angularjs)](https://github.com/IgorM-Oliveira)
+[![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript)](https://github.com/IgorM-Oliveira)
+[![Oracle](https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle)](https://github.com/IgorM-Oliveira)
 
 
 ###
 
 <h2 align="left">Social:</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enriquebastian/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/3pm_inspiration/)
-[![Hackerrank](https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/3pm_inspiration/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/enriquebastian/)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram)](https://www.instagram.com/3pm_inspiration/)
+[![Hackerrank](https://img.shields.io/badge/Hackerrank-000000?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/3pm_inspiration/)
 
 ###
 
