@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Bastian666666666/Bastian666666666/raw/main/bedroom.png" width="400" />
+</p>
+
 
 ###
 
