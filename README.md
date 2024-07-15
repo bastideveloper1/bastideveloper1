@@ -1,7 +1,7 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is Bastián and I'm a clinical psychologist and programmer, from Chile</h2>
+## Hi 👋! My name is Bastián and I'm a clinical psychologist and programmer, from <img src="https://github.com/Bastian666666666/Bastian666666666/raw/main/chile.png" width="25" style="vertical-align: middle;" />
 
 
 ###
