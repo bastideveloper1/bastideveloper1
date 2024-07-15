@@ -5,6 +5,8 @@
 
 ###
 
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/igor-matos-oliveira-869a18179/r)
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -55,7 +57,8 @@
 
 
 ![image](https://github.com/Bastian666666666/Bastian666666666/assets/133687016/8fbd9e0e-3385-4d3b-a435-bab9cf09f35a)
-[![MiyooTheme Miyoo](https://img.shields.io/badge/MiyooTheme-Miyoo?logo=github&color=pink&link=https%3A%2F%2Fgithub.com%2FBastian666666666%2FMiyoo-theme-project)](https://github.com/Bastian666666666/Miyoo-theme-project)
+[![MiyooTheme Miyoo](https://img.shields.io/badge/MiyooTheme-Miyoo?logo=github&color=pink&link=https%3A%2F%2Fgithub.com%2FBastian666666666%2FMiyoo-theme-project
+)](https://github.com/Bastian666666666/Miyoo-theme-project)
 
 
 ![image](https://github.com/Bastian666666666/Bastian666666666/assets/133687016/7f76fba5-08d7-4f3e-b927-3705ad485b44)
