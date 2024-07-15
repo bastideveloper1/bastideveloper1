@@ -5,7 +5,7 @@
 
 ###
 
-## Hi 👋! My name is Bastián and I'm a clinical psychologist and programmer, from <img src="https://github.com/Bastian666666666/Bastian666666666/raw/main/chile.png" width="25" style="vertical-align: middle;" />
+## Hi 👋! My name is Bastián and I'm a clinical psychologist🧠 / programmer 🧑🏻‍💻, from <img src="https://github.com/Bastian666666666/Bastian666666666/raw/main/chile.png" width="25" style="vertical-align: middle;" />
 
 
 ###
