@@ -4,7 +4,7 @@
 <h2 align="left">Hi 👋! My name is Bastián and I'm a clinical psychologist and programmer, from Chile.</h2>
 
 ###
-
+I code with:
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/IgorM-Oliveira)
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://github.com/IgorM-Oliveira)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/IgorM-Oliveira)
@@ -20,6 +20,7 @@
 
 ###
 
+Social:
 <div align="left">
   <a href="https://www.instagram.com/3pm_inspiration" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
