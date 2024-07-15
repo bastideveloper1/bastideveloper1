@@ -3,9 +3,6 @@
 
 <h2 align="left">Hi 👋! My name is Bastián and I'm a clinical psychologist and programmer, from Chile</h2>
 
-<img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="20" /> from:
-<a href="https://www.flaticon.com/free-icons/chile" title="Chile icons created by Roundicons - Flaticon">Chile icons created by Roundicons - Flaticon</a>
-
 
 ###
 <h2 align="left">I code with:</h2>
