@@ -1,9 +1,9 @@
-name: Generate Contribution Snake
+name: Generate Snake Animation
 
 on:
   schedule:
     - cron: "0 0 * * *"  # Ejecución diaria a medianoche UTC
-  workflow_dispatch:
+  workflow_dispatch:     # Permite ejecución manual
   push:
     branches:
       - main  # Cambia a "master" si aún usas esa rama
@@ -11,21 +11,26 @@ on:
 jobs:
   generate:
     permissions:
-      contents: write  # Permiso para escribir en el repositorio
+      contents: write   # Permisos para escribir en el repo
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
     steps:
       # Paso 1: Generar la serpiente (versión actualizada)
       - name: Generate Snake
-        uses: Platane/snk@master  # Versión más reciente
+        uses: Platane/snk@master  # ¡Versión actualizada!
         with:
-          github_user_name: bastideveloper1  # Tu usuario exacto
+          github_user_name: "bastideveloper1"  # Tu usuario exacto (reemplázalo)
           svg_out_path: dist/github-contribution-grid-snake.svg
-          svg_out_dark_path: dist/github-contribution-grid-snake-dark.svg  # Versión oscura
-          width: 600  # Ancho aumentado para mejor visualización
-          color: "#4B0082"  # Color violeta (cambiable)
-          dark_mode: true  # Habilita modo oscuro automático
+          svg_out_dark_path: dist/github-contribution-grid-snake-dark.svg
+          width: 600       # Ancho aumentado
+          color: "#4B0082" # Color violeta (personalizable)
+          dark_mode: true  # Soporte para modo oscuro
 
-      # Paso 2: Desplegar en la rama 'output'
-      - name: Deploy to Output Br
+      # Paso 2: Subir a la rama 'output'
+      - name: Deploy to Output Branch
+        uses: peaceiris/actions-gh-pages@v3  # Más estable
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
