@@ -20,15 +20,6 @@
 
 
 ###
-
-![Snake animation](https://github.com/bastideveloper1/bastideveloper1/blob/output/github-contribution-grid-snake.svg)
-
-<h2 align="left">Social:</h2>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/enriquebastian/)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram)](https://www.instagram.com/3pm_inspiration/)
-[![Hackerrank](https://img.shields.io/badge/Hackerrank-000000?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/3pm_inspiration/)
-
-## 🟢 GitHub Activity
-
-![Green Wall](https://green-wall.leoku.dev/api/greenwall/bastideveloper1?start=2025&showAttribution=false)
+<p align="center">
+  <img src="https://github.com/bastideveloper1/bastideveloper1/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
