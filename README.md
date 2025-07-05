@@ -17,7 +17,12 @@ I’ve worked with: **🐍Python, 🟢Django, ☕Java, 🖼️HTML5, 🎨CSS3, �
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hi+I'm+Bastián;Programmer+%26+Psychologist;Welcome+to+my+GitHub!&center=true&width=500&height=50)](https://git.io/typing-svg)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bastideveloper1&layout=compact&theme=github_dark&hide=css)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bastideveloper1&layout=compact&theme=github_dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=Bastideveloper1&theme=github-dark&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Bastideveloper1&color=green)
+
+![License](https://img.shields.io/badge/license-MIT-blue)
+
 
