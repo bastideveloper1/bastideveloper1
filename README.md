@@ -21,6 +21,8 @@
 
 ###
 
+![Snake animation](https://github.com/bastideveloper1/bastideveloper1/blob/output/github-contribution-grid-snake.svg)
+
 <h2 align="left">Social:</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/enriquebastian/)
