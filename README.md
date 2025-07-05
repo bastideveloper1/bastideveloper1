@@ -1,15 +1,16 @@
 [![spotify widget](https://spootify-zeta.vercel.app/api/Spootify?playlistId=5rq30czPDTs8MmZRdYvqoj&userName=BT+Er&style=bar&color=000000)](https://github.com/Bastideveloper1/Bastideveloper1)
 
-# 👋 ¡Hola! Soy Bastián
+# 👋 Hi, I'm Bastián
 
-Soy **programador** y **psicólogo clínico** de Chile 🇨🇱. Me apasiona crear soluciones tecnológicas que generen un impacto positivo en las personas, combinando mis conocimientos en programación con una perspectiva centrada en el ser humano.
+I'm a **programmer** and **clinical psychologist** from Chile 🇨🇱. I'm passionate about creating technological solutions that make a positive impact on people's lives, combining my programming skills with a human-centered perspective.
 
-He trabajado con: **🐍Python, 🟢Django, ☕Java, 🖼️HTML5, 🎨CSS3, 🟡JavaScript, 🟣Bootstrap, 🔴Angular, 🌱Node.js, 🟦TypeScript, 💾Oracle database y 🐬MySQL**.
+I’ve worked with: **🐍Python, 🟢Django, ☕Java, 🖼️HTML5, 🎨CSS3, 🟡JavaScript, 🟣Bootstrap, 🔴Angular, 🌱Node.js, 🟦TypeScript, 💾Oracle Database, and 🐬MySQL**.
 
 ---
 
-📫 Puedes encontrarme en linkedin como: /enriquebastian  
-🎯 Revisa mis repositorios para ver algunos de mis proyectos más recientes.
+📫 You can find me on LinkedIn: [/enriquebastian](https://www.linkedin.com/in/enriquebastian)  
+🎯 Check out my repositories to see some of my latest projects.
+
 
 
 
