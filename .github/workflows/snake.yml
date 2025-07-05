@@ -1,51 +1,30 @@
-name: Generate Snake Animation
+name: GitHub Actions Snake Game
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Ejecución diaria a medianoche UTC
-  workflow_dispatch:     # Permite ejecución manual
-  push:
-    branches:
-      - main  # Cambia a "master" si aún usas esa rama
+    - cron: '0 0 * * *'  # Run every day at midnight
+  workflow_dispatch:     # Allow manual execution
 
 jobs:
   generate:
-    permissions:
-      contents: write   # Permisos para escribir en el repo
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-
+    
     steps:
-      # Paso 0: Configurar Git
-      - name: Configure Git
-        run: |
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git config --global user.name "github-actions[bot]"
-
-      # Paso 1: Generar la serpiente
       - name: Generate Snake
-        uses: Platane/snk@v1  # Usar versión estable
+        uses: Platane/snk@master
         with:
-          github_user_name: "bastideveloper1"
+          github_user_name: bastideveloper1
           svg_out_path: ./output/github-contribution-grid-snake.svg
           svg_out_dark_path: ./output/github-contribution-grid-snake-dark.svg
           width: 1000
-          color: "#663399"
+          color: '#663399'
           dark_mode: true
 
-      # Paso 2: Verificar que los archivos se generaron
-      - name: Check Files
-        run: |
-          ls -la ./output/
-          test -f ./output/github-contribution-grid-snake.svg
-          test -f ./output/github-contribution-grid-snake-dark.svg
-
-      # Paso 3: Subir a la rama 'output'
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./output
           publish_branch: output
-          force_orphan: true  # Forzar la creación de la rama
-          clean: true         # Limpiar la rama antes de publicar
+          force_orphan: true
+          clean: true
