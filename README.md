@@ -5,8 +5,9 @@
 <br>
 
 <a href="https://github.com/Bastideveloper1/Bastideveloper1">
-  <img src="https://spootify-zeta.vercel.app/api/Spootify?playlistId=5rq30czPDTs8MmZRdYvqoj&userName=BT+Er&style=bar&color=000000" width="500"/>
+  <img src="https://spootify-zeta.vercel.app/api/Spootify?playlistId=5rq30czPDTs8MmZRdYvqoj&userName=BT+Er&style=bar&color=000000" width="500" height="150"/>
 </a>
+
 
 
 ###
