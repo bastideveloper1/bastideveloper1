@@ -27,10 +27,7 @@ jobs:
         with:
           github_user_name: bastideveloper1
           svg_out_path: ./output/github-contribution-grid-snake.svg
-          svg_out_dark_path: ./output/github-contribution-grid-snake-dark.svg
-          width: 1000
-          color: '#663399'
-          dark_mode: true
+          gif_out_path: ./output/github-contribution-grid-snake.gif
 
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
@@ -39,6 +36,7 @@ jobs:
           publish_dir: ./output
           publish_branch: output
           force_orphan: true
-          clean: true
+          user_name: github-actions[bot]
+          user_email: github-actions[bot]@users.noreply.github.com
           commit_message: 'Update snake game'
           keep_files: true
