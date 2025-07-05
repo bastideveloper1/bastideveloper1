@@ -4,14 +4,26 @@ on:
   schedule:
     - cron: '0 0 * * *'  # Run every day at midnight
   workflow_dispatch:     # Allow manual execution
+  pull_request:          # Solo en pull requests
+    branches: [ main ]
+  push:
+    branches: [ main ]
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     
     steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - name: Create output directory
+        run: mkdir -p ./output
+
       - name: Generate Snake
-        uses: Platane/snk@master
+        uses: Platane/snk@v1  # Usar versión estable
         with:
           github_user_name: bastideveloper1
           svg_out_path: ./output/github-contribution-grid-snake.svg
@@ -28,3 +40,5 @@ jobs:
           publish_branch: output
           force_orphan: true
           clean: true
+          commit_message: 'Update snake game'
+          keep_files: true
