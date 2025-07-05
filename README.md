@@ -17,5 +17,7 @@ I’ve worked with: **🐍Python, 🟢Django, ☕Java, 🖼️HTML5, 🎨CSS3, �
 
 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hi+I'm+Bastián;Programmer+%26+Psychologist;Welcome+to+my+GitHub!&center=true&width=500&height=50)](https://git.io/typing-svg)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bastideveloper1&layout=compact&theme=github_dark)
 
