@@ -20,4 +20,7 @@
 
 
 ## Mis Contribuciones
-![GitHub Contributions](https://ghchart.rshah.org/bastideveloper1)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bastideveloper1/bastideveloper1/output/contributions.svg">
+  <img alt="Contribuciones Lilas" src="https://raw.githubusercontent.com/bastideveloper1/bastideveloper1/output/contributions.svg" width="100%">
+</picture>
