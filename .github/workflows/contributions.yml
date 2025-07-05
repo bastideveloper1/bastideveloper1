@@ -1,0 +1,23 @@
+name: Generate Contributions Chart
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Actualiza diariamente
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Contributions Image
+        uses: githubocto/github-chart-api@v1
+        with:
+          username: bastideveloper1  # Tu usuario
+          output: dist/contributions.svg
+          colors: "#2ECC71,#27AE60"  # Verde claro a oscuro
+
+      - name: Upload to Output
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
