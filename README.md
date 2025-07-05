@@ -5,8 +5,8 @@
 
 
 ###
+[![window widget](https://window-lemon.vercel.app/api/Window?titleBar=About&title=Bastideveloper1&desc=My+name+is+Basti%C3%A1n+and+I%27m+a+programmer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+%2F+clinical+psychologist%F0%9F%A7%A0%2C+from+%F0%9F%87%A8%F0%9F%87%B1&theme=dark)](https://github.com/Bastideveloper1/Bastideveloper1)
 
-## Hi 👋! My name is Bastián and I'm a programmer 🧑🏻‍💻 / clinical psychologist🧠, from <img src="https://github.com/Bastian666666666/Bastian666666666/raw/main/chile.png" width="25" style="vertical-align: middle;" />
 
 ### 🎧 Mi Playlist de Spotify Favorita
 
