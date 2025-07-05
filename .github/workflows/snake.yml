@@ -1,23 +1,27 @@
 name: Generate Snake
 on:
   schedule:
-    - cron: "0 0 * * *"  # Ejecución diaria
-  workflow_dispatch:      # Permite ejecución manual
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@master
+      - uses: actions/checkout@v4  # Asegura permisos de escritura
+
+      - name: Generate Snake
+        uses: Platane/snk@master
         with:
           github_user_name: bastideveloper1
           svg_out_path: dist/github-contribution-grid-snake.svg
-          width: 800          # Ancho aumentado
-          color: "#4B0082"    # Color violeta
-          dark_mode: true     # Modo oscuro automático
+          width: 800
+          color: "#4B0082"
+          dark_mode: true
 
       - name: Deploy to Output
-        uses: JamesIves/github-pages-deploy-action@v4
+        uses: peaceiris/actions-gh-pages@v3  # Alternativa más estable
         with:
-          branch: output
-          folder: dist
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
