@@ -21,10 +21,10 @@ jobs:
         uses: Platane/snk@master  # ¡Versión actualizada!
         with:
           github_user_name: "bastideveloper1"  # Tu usuario exacto (reemplázalo)
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          svg_out_dark_path: dist/github-contribution-grid-snake-dark.svg
-          width: 600       # Ancho aumentado
-          color: "#4B0082" # Color violeta (personalizable)
+          svg_out_path: ./output/github-contribution-grid-snake.svg
+          svg_out_dark_path: ./output/github-contribution-grid-snake-dark.svg
+          width: 1000      # Ancho aumentado para mejor visibilidad
+          color: "#663399" # Color morado más claro y visible
           dark_mode: true  # Soporte para modo oscuro
 
       # Paso 2: Subir a la rama 'output'
