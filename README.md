@@ -19,9 +19,3 @@
 [![Oracle](https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle)](https://github.com/IgorM-Oliveira)
 
 
-## Mis Contribuciones
-<img 
-  src="https://ghchart.rshah.org/2DA44E/bastideveloper1?bg=0D1117&no_contributions=2D333B" 
-  alt="Mis contribuciones" 
-  width="100%"
-/>
