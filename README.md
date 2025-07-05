@@ -11,10 +11,7 @@ I’ve worked with: **🐍Python, 🟢Django, ☕Java, 🖼️HTML5, 🎨CSS3, �
 📫 You can find me on LinkedIn: [/enriquebastian](https://www.linkedin.com/in/enriquebastian)  
 🎯 Check out my repositories to see some of my latest projects.
 
-## 📊 GitHub Stats
 
-![Bastián's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bastideveloper1&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bastideveloper1&layout=compact&theme=github_dark)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Bastideveloper1&theme=github-dark&hide_border=true)
 
 
