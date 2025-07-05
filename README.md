@@ -20,4 +20,9 @@
 
 
 ## Mis Contribuciones
-<img src="https://ghchart.rshah.org/bastideveloper1" alt="bastideveloper1's Github chart" />
+<img 
+  src="https://ghchart.rshah.org/808080/bastideveloper1?bg=0D1117" 
+  alt="Mis contribuciones" 
+  width="100%"
+  style="border-radius: 8px;"
+/>
