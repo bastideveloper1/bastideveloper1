@@ -18,14 +18,10 @@ jobs:
         run: mkdir -p ./output
 
       - name: Generate Snake
-        uses: Platane/snk@v0.7.0  # Versión más estable
+        uses: Platane/snk@v0.7.0
         with:
           github_user_name: bastideveloper1
           svg_out_path: ./output/github-contribution-grid-snake.svg
-          color: '#00ff00'  # Verde brillante
-          width: 1000     # Ancho más grande
-          height: 200     # Alto más grande
-          dark_mode: true # Soporte para modo oscuro
 
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
@@ -34,7 +30,4 @@ jobs:
           publish_dir: ./output
           publish_branch: output
           force_orphan: true
-          user_name: github-actions[bot]
-          user_email: github-actions[bot]@users.noreply.github.com
-          commit_message: 'Update snake game'
           keep_files: true
