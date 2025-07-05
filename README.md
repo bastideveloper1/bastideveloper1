@@ -1,9 +1,6 @@
 
 [![window widget](https://window-lemon.vercel.app/api/Window?titleBar=About&title=Bastideveloper1&desc=My+name+is+Basti%C3%A1n+and+I%27m+a+programmer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+%2F+clinical+psychologist%F0%9F%A7%A0%2C+from+%F0%9F%87%A8%F0%9F%87%B1&theme=dark)](https://github.com/Bastideveloper1/Bastideveloper1)
 
-
-### 🎧 Mi Playlist de Spotify Favorita
-
 [![spotify widget](https://spootify-zeta.vercel.app/api/Spootify?playlistId=5rq30czPDTs8MmZRdYvqoj&userName=BT+Er&style=bar&color=000000)](https://github.com/Bastideveloper1/Bastideveloper1)
 
 
