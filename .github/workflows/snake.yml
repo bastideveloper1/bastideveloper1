@@ -3,11 +3,6 @@ name: GitHub Actions Snake Game
 on:
   schedule:
     - cron: '0 0 * * *'  # Run every day at midnight
-  workflow_dispatch:     # Allow manual execution
-  pull_request:          # Solo en pull requests
-    branches: [ main ]
-  push:
-    branches: [ main ]
 
 jobs:
   generate:
