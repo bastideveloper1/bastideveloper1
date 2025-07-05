@@ -19,4 +19,5 @@
 [![Oracle](https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle)](https://github.com/IgorM-Oliveira)
 
 
-[![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=bastideveloper1&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&hide_border=true&hide_title=true)](https://github.com/bastideveloper1)
+## Mis Contribuciones
+![GitHub Contributions](https://ghchart.rshah.org/bastideveloper1)
