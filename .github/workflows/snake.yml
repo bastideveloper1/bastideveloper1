@@ -16,21 +16,36 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      # Paso 1: Generar la serpiente (versión actualizada)
+      # Paso 0: Configurar Git
+      - name: Configure Git
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+
+      # Paso 1: Generar la serpiente
       - name: Generate Snake
-        uses: Platane/snk@master  # ¡Versión actualizada!
+        uses: Platane/snk@v1  # Usar versión estable
         with:
-          github_user_name: "bastideveloper1"  # Tu usuario exacto (reemplázalo)
+          github_user_name: "bastideveloper1"
           svg_out_path: ./output/github-contribution-grid-snake.svg
           svg_out_dark_path: ./output/github-contribution-grid-snake-dark.svg
-          width: 1000      # Ancho aumentado para mejor visibilidad
-          color: "#663399" # Color morado más claro y visible
-          dark_mode: true  # Soporte para modo oscuro
+          width: 1000
+          color: "#663399"
+          dark_mode: true
 
-      # Paso 2: Subir a la rama 'output'
+      # Paso 2: Verificar que los archivos se generaron
+      - name: Check Files
+        run: |
+          ls -la ./output/
+          test -f ./output/github-contribution-grid-snake.svg
+          test -f ./output/github-contribution-grid-snake-dark.svg
+
+      # Paso 3: Subir a la rama 'output'
       - name: Deploy to Output Branch
-        uses: peaceiris/actions-gh-pages@v3  # Más estable
+        uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
+          publish_dir: ./output
           publish_branch: output
+          force_orphan: true  # Forzar la creación de la rama
+          clean: true         # Limpiar la rama antes de publicar
