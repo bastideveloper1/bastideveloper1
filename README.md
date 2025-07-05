@@ -21,8 +21,7 @@
 
 ## Mis Contribuciones
 <img 
-  src="https://ghchart.rshah.org/9D4BFF/bastideveloper1?bg=0D1117&no_contributions=2D333B" 
-  alt="Contribuciones Gris-Lila" 
+  src="https://ghchart.rshah.org/2DA44E/bastideveloper1?bg=0D1117&no_contributions=2D333B" 
+  alt="Mis contribuciones" 
   width="100%"
-  style="border-radius: 8px;"
 />
