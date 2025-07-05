@@ -27,13 +27,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram)](https://www.instagram.com/3pm_inspiration/)
 [![Hackerrank](https://img.shields.io/badge/Hackerrank-000000?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/3pm_inspiration/)
 
-![image](https://github.com/Bastian666666666/Bastian666666666/assets/133687016/72a99b89-cf40-4942-b20b-c8a276155807)
-[![MindMatch](https://img.shields.io/badge/MindMatch-Tracker?logo=github&color=7DFCF2)](https://github.com/Bastian666666666/MindMatch-DSM-Symptom-Tracker)
+## 🟢 GitHub Activity
 
-![image](https://github.com/Bastian666666666/Bastian666666666/assets/133687016/8fbd9e0e-3385-4d3b-a435-bab9cf09f35a)
-[![MiyooTheme Miyoo](https://img.shields.io/badge/MiyooTheme-Miyoo?logo=github&color=pink&link=https%3A%2F%2Fgithub.com%2FBastian666666666%2FMiyoo-theme-project
-)](https://github.com/Bastian666666666/Miyoo-theme-project)
+![Green Wall](https://green-wall.leoku.dev/api/greenwall/bastideveloper1?start=2025&showAttribution=false)
 
-
-![image](https://github.com/Bastian666666666/Bastian666666666/assets/133687016/7f76fba5-08d7-4f3e-b927-3705ad485b44)
- 
