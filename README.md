@@ -19,4 +19,8 @@
 [![Oracle](https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle)](https://github.com/IgorM-Oliveira)
 
 
-<img alt="github-snake" src="https://raw.githubusercontent.com/bastideveloper1/bastideveloper1/output/github-contribution-grid-snake.svg" width="1000" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bastideveloper1/bastideveloper1/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bastideveloper1/bastideveloper1/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/bastideveloper1/bastideveloper1/output/github-contribution-grid-snake.svg" width="1200" />
+</picture>
