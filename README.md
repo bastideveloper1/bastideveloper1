@@ -8,7 +8,7 @@
 
 ## Hi 👋! My name is Bastián and I'm a programmer 🧑🏻‍💻 / clinical psychologist🧠, from <img src="https://github.com/Bastian666666666/Bastian666666666/raw/main/chile.png" width="25" style="vertical-align: middle;" />
 
-[![spotify widget](https://spootify-zeta.vercel.app/api/Spootify?playlistId=37i9dQZF1DZ06evO4Bzbhp&userName=Rock&style=liquid&color=000000)](https://github.com/Bastideveloper1/README)
+[![spotify widget](https://spootify-zeta.vercel.app/api/Spootify?playlistId=37i9dQZF1DZ06evO4Bzbhp&userName=Rock&style=liquid&color=000000)](https://github.com/Bastideveloper1/readme.md)
 
 
 ###
