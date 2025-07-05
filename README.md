@@ -30,4 +30,3 @@
 ## 🟢 GitHub Activity
 
 ![Green Wall](https://green-wall.leoku.dev/api/greenwall/bastideveloper1?start=2025&showAttribution=false)
-
