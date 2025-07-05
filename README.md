@@ -19,4 +19,4 @@
 [![Oracle](https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle)](https://github.com/IgorM-Oliveira)
 
 
-[![GitHub Calendar](https://github-readme-calendar.vercel.app/api/calendar?username=bastideveloper1&theme=github-dark)](https://github.com/bastideveloper1)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bastideveloper1&show_icons=true&theme=radical&show_contribs=true)](https://github.com/bastideveloper1)
