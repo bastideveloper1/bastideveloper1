@@ -20,25 +20,4 @@
 
 
 ## Mis Contribuciones
-<!-- Include the library. -->
-<script
-  src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js"
-></script>
-
-<!-- Optionally, include the theme (if you don't want to struggle to write the CSS) -->
-<link
-   rel="stylesheet"
-   href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css"
-/>
-
-<!-- Prepare a container for your calendar. -->
-<div class="calendar">
-    <!-- Loading stuff -->
-    Loading the data just for you.
-</div>
-
-<script>
-    GitHubCalendar(".calendar", "bastideveloper1");
-    // or enable responsive functionality
-    GitHubCalendar(".calendar", "your-username", { responsive: true });
-</script>
+<img src="https://ghchart.rshah.org/bastideveloper1" alt="bastideveloper1's Github chart" />
