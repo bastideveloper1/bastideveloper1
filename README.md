@@ -13,16 +13,3 @@ I’ve worked with: **🐍Python, 🟢Django, ☕Java, 🖼️HTML5, 🎨CSS3, �
 🎯 Check out my repositories to see some of my latest projects.
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Bastideveloper1&theme=github-dark&hide_border=true)
-
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bastideveloper1&layout=compact&theme=github_dark&hide=css)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Bastideveloper1&theme=github-dark&hide_border=true)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Bastideveloper1&color=green)
-
-![License](https://img.shields.io/badge/license-MIT-blue)
-
-
