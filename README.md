@@ -1,16 +1,14 @@
 
-☕Hi, I'm Bastián 
+☕ Hola, soy Bastián
 
 ![Total Commits](https://img.shields.io/badge/Total_Commits-1234-blue)
 
-I'm a **programmer** and **clinical psychologist** from Chile 🇨🇱. I'm passionate about creating technological solutions that make a positive impact on people's lives, combining my programming skills with a human-centered perspective.
-
-I’ve worked with: **🐍Python, 🟢Django, ☕Java, 🖼️HTML5, 🎨CSS3, 🟡JavaScript, 🟣Bootstrap, 🔴Angular, 🌱Node.js, 🟦TypeScript, 💾Oracle Database, and 🐬MySQL**.
+Soy programador y psicólogo clínico de Chile 🇨🇱. Me apasiona crear soluciones tecnológicas que generen un impacto positivo en la vida de las personas, combinando mis habilidades en programación con una perspectiva centrada en lo humano.
 
 ---
 
-📫 You can find me on LinkedIn: [/enriquebastian](https://www.linkedin.com/in/enriquebastian)  
-🎯 Check out my repositories to see some of my latest projects.
+📫 Puedes encontrarme en LinkedIn: [/enriquebastian](https://www.linkedin.com/in/enriquebastian)  
+🎯 Revisa mis repositorios para ver algunos de mis proyectos más recientes.
 
 
 
